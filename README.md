@@ -21,11 +21,11 @@ A command-line calculator supporting basic and extended operations:
 python calculator.py
 
 ## Sample Commands
-2 + 3
-10 / 5
-sqrt 9
-50 % 200
-2 ^ 8
+2 + 3 ,
+10 / 5 , 
+sqrt 9 ,
+50 % 200 ,
+2 ^ 8 
 
 ## Screenshots
 Screenshots are in `demo_screenshots/`.
